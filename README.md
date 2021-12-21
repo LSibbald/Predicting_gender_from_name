@@ -1,4 +1,5 @@
-# deep_learning_project
+# deep learning in python project
+## Lisette Sibbald, Sophie Elting & Felice Wulfse
 
 Predicting gender from name using Long Short Term Memory (LSTM) recurrent neural networks.
 
