@@ -1,4 +1,4 @@
-# Deep Learning in Python Project
+# Deep Learning in Python Project for University of Amsterdam
 ## Lisette Sibbald, Sophie Elting & Felice Wulfse
 
 Predicting gender from name using Long Short Term Memory (LSTM) recurrent neural networks.
